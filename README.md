@@ -32,5 +32,5 @@ Data analysis tools for analysis of POPS SAIL-Net data
   Minor in Spanish | *Boettcher Scholar*
 
  ## Let's Connect
- [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Email](mailto:leah.d.gibson98@gmail.com) [Check out my blog](https://polarvertex.substack.com)
+ [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Email](mailto:leah.d.gibson98@gmail.com) • [Check out my blog](https://polarvertex.substack.com)
 
