@@ -1,8 +1,6 @@
 # Hi, I'm Leah.
 
-I'm a **data scientist, mathematician, and researcher** working at the intersection of environmental science, data, and software. My work focuses on using mathematical and statistical methods to make sense of complex environmental systems.
-
-I am currently at **Air Quality Data Scientist** at the Colorado Department of Public Health and Environment [CDPHE GitHub](https://github.com/leahgibsonCDPHE).
+I'm a **data scientist, mathematician, and researcher** working at the intersection of environmental science, data, and software. My work focuses on using mathematical and statistical methods to make sense of complex environmental systems. I am currently at **Air Quality Data Scientist** at the Colorado Department of Public Health and Environment [(CDPHE GitHub)](https://github.com/leahgibsonCDPHE).
 
 ## Open Source Projects
  
@@ -25,6 +23,9 @@ Data analysis tools for analysis of POPS SAIL-Net data
 
 - **Research Associate II**, Handix Scientific
   Led data analysis for the 1.5 year SAIL-Net project and updated software for atmospheric instrumentation.
+
+ ## Let's Connect
+ [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Email](mailto:leah.d.gibson98@gmail.com)
 
 - **MS, Applied Mathematics** — Colorado State University  
   Research in PDE-based modeling and dynamical systems.  
