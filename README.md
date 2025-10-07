@@ -44,5 +44,5 @@ Identified and fixed a bug in the package while using it for source apportionmen
   Minor in Spanish | *Boettcher Scholar*
 
  ## Let's Connect
- [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Substack](https://polarvertex.substack.com) • [Email](mailto:leah.d.gibson98@gmail.com)
+ [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Substack](https://polarvertex.substack.com) • [Twitter/X](https://x.com/c0mbinatorial) • [Email](mailto:leah.d.gibson98@gmail.com)
 
