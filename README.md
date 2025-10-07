@@ -24,13 +24,13 @@ Data analysis tools for analysis of POPS SAIL-Net data
 - **Research Associate II**, Handix Scientific
   Led data analysis for the 1.5 year SAIL-Net project and updated software for atmospheric instrumentation.
 
- ## Let's Connect
- [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Email](mailto:leah.d.gibson98@gmail.com)
-
 - **MS, Applied Mathematics** — Colorado State University  
   Research in PDE-based modeling and dynamical systems.  
   *Center for Interdisciplinary Mathematics and Statistics Fellow.*  
 
 - **BS, Mathematics (cum laude)** — Colorado State University  
-  Minor in Spanish | *Boettcher Scholar*  
+  Minor in Spanish | *Boettcher Scholar*
+
+ ## Let's Connect
+ [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Email](mailto:leah.d.gibson98@gmail.com) [Check out my blog](https://polarvertex.substack.com)
 
