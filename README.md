@@ -1,8 +1,8 @@
 # Hi, I'm Leah.
 
-I'm a **data scientist, mathematician, and researcher** working at the intersection of environmental science, data, and software. My work focuses on using mathematical and statistical methods to make sense of complex environmental systems. 
+I'm a **data scientist, mathematician, software developer, and researcher** working at the intersection of environmental science, data, and software. My work focuses on using mathematical and statistical methods to make sense of complex environmental systems. 
 
-I am currently at **Air Quality Data Scientist** at the Colorado Department of Public Health and Environment [(CDPHE GitHub)](https://github.com/leahgibsonCDPHE). About 80% of my programming is done on that account for work, and all the repositories are private. However, I want to highlight some of my own open source projects and contributions.
+I am currently at **Air Quality Data Scientist** at the Colorado Department of Public Health and Environment [(CDPHE GitHub)](https://github.com/leahgibsonCDPHE).
 
 ## Open Source Projects
  
@@ -44,5 +44,5 @@ Identified and fixed a bug in the package while using it for source apportionmen
   Minor in Spanish | *Boettcher Scholar*
 
  ## Let's Connect
- [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Substack](https://polarvertex.substack.com) • [Twitter/X](https://x.com/c0mbinatorial) • [Email](mailto:leah.d.gibson98@gmail.com)
+ [Website](https://www.leahgibson.com) • [LinkedIn](linkedin.com/in/leahdgibson) • [ORCID](https://orcid.org/0009-0000-4429-7019) • [Substack](https://polarvertex.substack.com) • [Twitter/X](https://x.com/c0mbinatorial) • [Email](mailto:leah.d.gibson98@gmail.com)
 
