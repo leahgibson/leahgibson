@@ -2,7 +2,7 @@
 
 I'm a **data scientist, mathematician, software developer, and researcher** working at the intersection of environmental science, data, and software. My work focuses on using mathematical and statistical methods to make sense of complex environmental systems. 
 
-I am currently at **Air Quality Data Scientist** at the Colorado Department of Public Health and Environment [(CDPHE GitHub)](https://github.com/leahgibsonCDPHE).
+I am currently a **Remote Sensing Data Scientist** at Urban Sky.
 
 ## Open Source Projects
  
@@ -26,6 +26,8 @@ Identified and fixed a bug in the package while using it for source apportionmen
 
 
 ## Background & Education
+
+- **Remote Sensing Data Scientist**, Urban Sky
 
 - **Air Quality Data Scientist**, Colorado Department of Public Health & Environment  
   Building data workflows, dashboards, and ML tools for statewide air monitoring and analysis.  
